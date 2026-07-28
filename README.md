@@ -314,3 +314,14 @@ This is a from-scratch single-author project: every line of the kernel, the user
 GrahaOS is a project of passion, vision, and experimentation. It represents a deliberate rethinking of what an operating system can be when designed *for* AI rather than *alongside* it — capability-first, manifest-driven, speculation-native, and verified end-to-end by hand and by harness.
 
 **Contributors welcome.**
+
+
+---
+
+## License
+
+This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+The Waefrebeorn Umbrella License is a custom source-available license.
+It is not OSI-approved and not FSF-approved.
